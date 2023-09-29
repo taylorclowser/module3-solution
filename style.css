@@ -5,7 +5,8 @@
 }
 .navbar{
 
-border: none;
+border: 0;
+border-radius: 0;
 background-color: pink;
 color: #DE3163;
 }
@@ -16,10 +17,8 @@ body{
 .navbar-brand h1 {
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 	color #DE3163;
-	font-size: 1.5em;
+	font-size: 3em;
 	font-weight: bold;
 
 }
-.navbar-brand {
-	padding-top: 25px;
-}
+

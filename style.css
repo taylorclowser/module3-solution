@@ -9,6 +9,15 @@ border: 0;
 border-radius: 0;
 background-color: hsl(343, 63%, 71%);
 
+
+}
+.glyphicon{
+	font-size: 30px;
+	color:white; 
+}
+
+h1{
+	color: black;
 }
 body{
 	background-color: pink;
@@ -16,7 +25,9 @@ body{
 	text-align: center;
 }
 
-
+#myNavbar ul li a {
+	color: #910739;
+}
 .navbar-brand{
 
 font-size: 30px;
@@ -28,6 +39,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 	border: 2px solid white;
   }
 	
+.container-2
+{
+	background-color:#910739;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 10%;
+
+	
+}
 
 h2{
 	text-align: center;

@@ -7,21 +7,28 @@
 
 border: 0;
 border-radius: 0;
-background-color: pink;
-color: #DE3163;
-margin: 10px;
+background-color: hsl(343, 63%, 71%);
 
 }
 body{
-	background-color: #DE3163;
+	background-color: pink;
 	color: white;
+	text-align: center;
 }
-.navbar-brand h1 {
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-	color #DE3163;
-	font-weight: bold;
-	margin-top: 0;
-	margin-bottom: 0;
+
+
+.navbar-brand{
+
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;	
 
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 2px solid white;
+  }
+	
+
+h2{
+	text-align: center;
+}

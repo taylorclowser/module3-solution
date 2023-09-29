@@ -13,3 +13,10 @@ body{
 	background-color: #DE3163;
 	color: white;
 }
+
+.navbar-brand{
+	color:black;
+	font-family: helvetica;
+	font-size: medium;
+
+}
